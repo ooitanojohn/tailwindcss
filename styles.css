@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .class-name{
+        @apply
+    }
+}
+@layer utilities{
+    /* @apply
+    .font-sankou{
+        font-family:canada-type-gibson,"游ゴシック Medium",Yu Gothic Medium, "游ゴシック体",
+        YuGothic,"ヒラギノ角ゴシック Pro",Hiragino Kaku Gothic Pro,"メイリオ",Meiryo,"ＭＳ Ｐゴシック","MS PGothic",sans-serif;
+    } */
+}
